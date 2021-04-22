@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "New 2021 Tesla Model S unveiled",
+      "body": "Electric car giant Tesla has released images and information regarding the updated Model S. Comestic revisions to the new Tesla Model S are minor but there are significant changes to the interior including a radical steering wheel setup and there are also the new Plaid and Plaid+ range-topping variants.",
+      "author": "Piyush",
+      "image": "https://images.unsplash.com/photo-1617704559606-5c2a5a59c90f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjE5MDk0NjMz&ixlib=rb-1.2.1&q=80&w=1080&utm_source=unsplash_source&utm_medium=referral&utm_campaign=api-credit",
+      "date": "19 Apr 2021",
+      "category": "Cars",
+      "id": 1
+    },
+    {
+      "title": "Cupcake Party!",
+      "body": "A cupcake is a small cake designed to be eaten by one person. They are often baked in a small thin paper or aluminum cup. Like larger cakes, frosting and other cake decorations, such as sprinkles, are common on cupcakes. They are often sweet and include frosting. Some specialized bakeries sell only cupcakes.",
+      "author": "Mario",
+      "image": "https://images.unsplash.com/photo-1606188074044-fcd750f6996a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjE5MDk1MzY3&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600",
+      "date": "19 Apr 2021",
+      "category": "Food",
+      "id": 2
+    },
+    {
+      "title": "Easy Crafts You Can Do at Home",
+      "body": "here's no bordeom buster quite like a good craft project. There's so much satisfaction in making something with your own hands — especially from the comfort of your couch. We rounded up some of our favorite, easy craft projects that are kid-friendly, budget-friendly and many use materials you might already have around the house.\nTake a closer look: These gorgeous paper flowers use a leftover roll of party streamers, and you can make an entire bouquet while you watch tv.",
+      "image": "https://images.unsplash.com/photo-1576376262099-6ec3ed655f52?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjE5MDk2Nzc3&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600",
+      "category": "DIY",
+      "author": "Jake",
+      "date": "21 Apr 2021",
+      "id": 3
+    },
+    {
+      "title": "The new Apple TV 4K arrives with HDMI 2.1, Thread wireless tech",
+      "body": "The new Apple TV has HDMI 2.1 and a new type of mesh networking technology built-in. Earlier today Apple introduced a new Apple TV 4K box (and a redesigned Siri remote that should be easier to use), and a close look at the spec sheet reveals a few more details about what it can do.",
+      "image": "https://images.unsplash.com/photo-1599398875076-5715de130a9b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjE5MDk1MTAy&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600",
+      "category": "Technology",
+      "author": "Adam",
+      "date": "21 Apr 2021",
+      "id": 4
+    }
+  ]
+}
